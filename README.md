@@ -1,4 +1,4 @@
-# Trabajo1 Multimedia Interactiva
+# Trabajo 2 Multimedia Interactiva
 ## Integrantes:
 #### Jose David Rueda Torres
 #### Sergio Alejandro Bermudez
